@@ -1,0 +1,19 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "Manage Packages with NPM Waypoint for freeCodeCamp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denmch/sample-node-package.git"
+  },
+  "author": "Den McHenry <den@rookishdesign.com> (http://denm.ch)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denmch/sample-node-package/issues"
+  },
+  "homepage": "https://github.com/denmch/sample-node-package#readme"
+}
