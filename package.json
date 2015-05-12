@@ -1,10 +1,10 @@
 {
   "name": "dev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Manage Packages with NPM Waypoint for freeCodeCamp.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/denmch/sample-node-package/issues"
   },
-  "homepage": "https://github.com/denmch/sample-node-package#readme"
+  "homepage": "https://github.com/denmch/sample-node-package#readme",
+  "dependencies": {
+    "once": "^1.3.0"
+  }
 }
